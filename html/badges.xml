@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<badges>
+
+	<!-- SMALL BADGES -->
+	
+	<badge id="1" level="s" parentId="1" >
+		<title><![CDATA[1.2 Project Rationale]]></title>
+		<description><![CDATA[In the Phase I presentation, explain the project rationale.]]></description>
+	</badge>
+	
+	<badge id="2" level="s" parentId="1" >
+		<title><![CDATA[1.3 Business Case]]></title>
+		<description><![CDATA[In the Phase I presentation, explain the business case. ]]></description>
+	</badge>
+	
+	<badge id="3" level="s" parentId="2" >
+		<title><![CDATA[2.2 Organizational Alignment]]></title>
+		<description><![CDATA[On the discussion board, draft and explain how your mission and vision statements support the mission of the company.]]></description>
+	</badge>
+	
+	<badge id="4" level="s" parentId="2" >
+		<title><![CDATA[2.3 Feedback]]></title>
+		<description><![CDATA[On the discussion board, every team member must give feedback focusing on organizational alignment to another team.]]></description>
+	</badge>
+	
+	<badge id="5" level="s" parentId="3" >
+		<title><![CDATA[3.2 HRA Choice]]></title>
+		<description><![CDATA[On the discussion board, describe your team&rsquo;s HRA choice and explain your rationale for the decision.]]></description>
+	</badge>
+	
+	<badge id="6" level="s" parentId="3" >
+		<title><![CDATA[3.3 Employee Demographics]]></title>
+		<description><![CDATA[In the Phase I presentation, identify your company’s employee demographics and explain how they will support the proposed program.]]></description>
+	</badge>
+	
+	<badge id="7" level="s" parentId="3" >
+		<title><![CDATA[3.4 Other Data]]></title>
+		<description><![CDATA[In the Phase I presentation, identify other relevant sources of data and explain how they will support the program.]]></description>
+	</badge>
+	
+	<badge id="8" level="s" parentId="3" >
+		<title><![CDATA[3.5 Types of Surveys / Instruments]]></title>
+		<description><![CDATA[In the Phase I presentation, identify the types of surveys and instruments to be used.]]></description>
+	</badge>
+	
+	<badge id="9" level="s" parentId="4" >
+		<title><![CDATA[4.2 Draft Goals]]></title>
+		<description><![CDATA[On the discussion board, post 3 draft goals and your rationale for goal selection.]]></description>
+	</badge>
+	
+	<badge id="10" level="s" parentId="4" >
+		<title><![CDATA[4.3 Feedback]]></title>
+		<description><![CDATA[On the discussion board, every team member must give feedback to other teams about their goal selection.]]></description>
+	</badge>
+	
+	<badge id="11" level="s" parentId="4" >
+		<title><![CDATA[4.4 Action Items]]></title>
+		<description><![CDATA[In the Phase I presentation, introduce action items for team project management.]]></description>
+	</badge>
+	
+	<badge id="12" level="s" parentId="4" >
+		<title><![CDATA[4.5 Draft Timeline]]></title>
+		<description><![CDATA[In the Phase I presentation, introduce the project timeline.]]></description>
+	</badge>
+	
+	<badge id="13" level="s" parentId="4" >
+		<title><![CDATA[4.6 Program Ideas]]></title>
+		<description><![CDATA[In the Phase I presentation, introduce program ideas to meet each goal.]]></description>
+	</badge>
+	
+	<badge id="14" level="s" parentId="5" >
+		<title><![CDATA[5.2 Team Charter]]></title>
+		<description><![CDATA[In the Dropbox, submit a team wellness charter.]]></description>
+	</badge>
+	
+	<badge id="15" level="s" parentId="5" >
+		<title><![CDATA[5.3 Branding]]></title>
+		<description><![CDATA[In the Phase I presentation, introduce your branding ideas for the wellness program.]]></description>
+	</badge>
+	
+	<badge id="16" level="s" parentId="6" >
+		<title><![CDATA[6.2 Feedback]]></title>
+		<description><![CDATA[Each team member must submit feedback on other teams&rsquo; presentations to the instructor.]]></description>
+	</badge>
+	
+	<badge id="17" level="s"  parentId="6" >
+		<title><![CDATA[6.3 Revision]]></title>
+		<description><![CDATA[Based on feedback you receive, submit your presentation revisions and rationale to the instructor.]]></description>
+	</badge>
+	
+	<badge id="18" level="s"  parentId="7" >
+		<title><![CDATA[8.2 Awareness]]></title>
+		<description><![CDATA[In the Phase II presentation, consider the role of awareness in your program.]]></description>
+	</badge>
+	
+	<badge id="19" level="s" parentId="7" >
+		<title><![CDATA[8.3 Intervention]]></title>
+		<description><![CDATA[In the Phase II presentation, consider the role of intervention in your program.]]></description>
+	</badge>
+	
+	<badge id="20" level="s" parentId="7" >
+		<title><![CDATA[8.4 Environment]]></title>
+		<description><![CDATA[In the Phase II presentation, consider the role of environment in your program.]]></description>
+	</badge>
+	
+	<badge id="21" level="s" parentId="7" >
+		<title><![CDATA[8.5 Incentives]]></title>
+		<description><![CDATA[In the Phase II presentation, consider the role of incentives in your program.]]></description>
+	</badge>
+	
+	<badge id="22" level="s"  parentId="9" >
+		<title><![CDATA[9.2 Draft Budget]]></title>
+		<description><![CDATA[On the discussion board, post a draft budget.]]></description>
+	</badge>
+	
+	<badge id="23" level="s" parentId="9" >
+		<title><![CDATA[9.3 Feedback]]></title>
+		<description><![CDATA[On the discussion board, each team member must review another team&rsquo;s budget and give feedback.]]></description>
+	</badge>
+	
+	
+	<badge id="24" level="s"  parentId="8" >
+		<title><![CDATA[10.2 Types of Models and Use in Interventions]]></title>
+		<description><![CDATA[In the Phase II presentation, explain the types of models and the use of interventions in your program.]]></description>
+	</badge>
+	
+	<badge id="25" level="s"  parentId="8" >
+		<title><![CDATA[10.3 Communication]]></title>
+		<description><![CDATA[In the Phase II presentation, explain the role of communication in your program.]]></description>
+	</badge>
+	
+	<badge id="26" level="s"  parentId="8" >
+		<title><![CDATA[10.4 Employee Involvment]]></title>
+		<description><![CDATA[In the Phase II presentation, explain the role of employee involvement in your program.]]></description>
+	</badge>
+	
+	<badge id="27" level="s" parentId="8" >
+		<title><![CDATA[10.5 Delivery Strategies]]></title>
+		<description><![CDATA[In the Phase II presentation, identify and explain the delivery strategies you will use for your program.]]></description>
+	</badge>
+	
+	
+	
+	<badge id="28" level="s" parentId="10" >
+		<title><![CDATA[11.2 Evaluation Plan]]></title>
+		<description><![CDATA[Submit an evaluation plan for your program to the instructor.]]></description>
+	</badge>
+	
+	<badge id="29" level="s" parentId="10">
+		<title><![CDATA[11.3 Return on Investment]]></title>
+		<description><![CDATA[In the Phase II presentation, project the return on investment for your program.]]></description>
+	</badge>
+	
+	<badge id="30" level="s" parentId="10">
+		<title><![CDATA[11.4 Measured Changes in Health Risk Factors]]></title>
+		<description><![CDATA[In the Phase II presentation, explain the measured changes in health risk factors.]]></description>
+	</badge>
+	
+	<badge id="31" level="s" parentId="10">
+		<title><![CDATA[11.5 Evaluation of Culture Change]]></title>
+		<description><![CDATA[In the Phase II presentation, explain the evaluation of culture change.]]></description>
+	</badge>
+	
+	<badge id="32" level="s" parentId="10">
+		<title><![CDATA[11.6 Evaluation of Goals and Objectives]]></title>
+		<description><![CDATA[ In the Phase II presentation, explain the evaluation of your goals and objectives.]]></description>
+	</badge>
+	
+	<!-- MEDIUM BADGES -->
+
+	<badge id="1" level="m" parentId="1">
+		<title><![CDATA[1.1 Background / Situation Overview]]></title>
+		<description><![CDATA[ Your team demonstrated a clear understanding of the project&rsquo;s background and situation overview by explaining the project rationale and business case in your presentation.]]></description>
+	</badge>
+	
+	<badge id="2" level="m" parentId="1">
+		<title><![CDATA[2.1 Mission / Vision / Values]]></title>
+		<description><![CDATA[Your team demonstrated a clear understanding of Mission, Vision, and Values by drafting mission and vision statements and giving feedback to another team.]]></description>
+	</badge>
+	
+	<badge id="3" level="m" parentId="1">
+		<title><![CDATA[3.1 Individual / Organization Assessment - Data]]></title>
+		<description><![CDATA[Your team demonstrated a clear understanding of individual and organizational assessment by applying all of the relevant data from the topic areas in this section to your case and by identifying surveys and instruments to be used.]]></description>
+	</badge>
+	
+	<badge id="4" level="m" parentId="1">
+		<title><![CDATA[4.1 Goals and Objectives]]></title>
+		<description><![CDATA[ Your team demonstrated a clear understanding of goals and objectives by drafting goals for the program, giving feedback to another team, identifying action items, drafting a project timeline, and identifying program ideas that support your goals.]]></description>
+	</badge>
+	
+	<badge id="5" level="m" parentId="1">
+		<title><![CDATA[5.1 Formulation of a Wellness Committee]]></title>
+		<description><![CDATA[Your team formed a wellness committee, drafted a team charter, and branded the program.]]></description>
+	</badge>
+	
+	<badge id="6" level="m" parentId="1">
+		<title><![CDATA[6.1 Phase I Presentation]]></title>
+		<description><![CDATA[Your team presented on the items in Phase I, provided feedback to another team, and revised your presentation.]]></description>
+	</badge>
+	
+	<badge id="7" level="m" parentId="2">
+		<title><![CDATA[8.1 Health Promtion Program Components and Actitivies]]></title>
+		<description><![CDATA[Your team considered awareness, intervention, environment, and the role of incentives and how they apply to your case.]]></description>
+	</badge>
+	
+	<badge id="8" level="m" parentId="2">
+		<title><![CDATA[9.1 Budgeting]]></title>
+		<description><![CDATA[Your team demonstrated a clear understanding of budgeting by drafting a budget for your program and providing feedback to another team.]]></description>
+	</badge>
+	
+	<badge id="9" level="m" parentId="2">
+		<title><![CDATA[10.1 Motivating Behavior Change]]></title>
+		<description><![CDATA[Your team identified types of models and use in interventions, as well as communication, employee involvement, and delivery strategies you will use in your program.]]></description>
+	</badge>
+	
+	<badge id="10" level="m" parentId="2">
+		<title><![CDATA[11.1 Evaluating Health Promotion Programs]]></title>
+		<description><![CDATA[Your team explained how you will evaluate the program and considered the evaluation plan, return on investment, measuring changes in health risk factors, evualuation of culture change, and evaluation of goals and objectives.]]></description>
+	</badge>
+	
+	<badge id="11" level="m" parentId="2">
+		<title><![CDATA[12 Phase II Presentation]]></title>
+		<description><![CDATA[Your team presented on all of the topics in Phase II.]]></description>
+	</badge>
+	
+	<badge id="12" level="m" parentId="3">
+		<title><![CDATA[14 Sell the CEO]]></title>
+		<description><![CDATA[On the discussion board, post the strategies you will use and information you will consider to sway and influence decisions of each type of executive.]]></description>
+	</badge>
+	
+	<badge id="13" level="m" parentId="3">
+		<title><![CDATA[15 Final Presentation]]></title>
+		<description><![CDATA[Craft and deliver a presentation and supporting materials to sell your program to the CEO.]]></description>
+	</badge>
+		
+	<!-- LARGE BADGES -->
+	
+	<badge id="1" level="l" parentId="0">
+		<title><![CDATA[7.1 Phase I Complete]]></title>
+		<description><![CDATA[Congratulations! Your team has completed Phase I of the project.]]></description>
+	</badge>
+	
+	<badge id="2" level="l" parentId="0">
+		<title><![CDATA[13 Phase II Complete]]></title>
+		<description><![CDATA[Congratulations! Your team has completed Phase II of the project.]]></description>
+	</badge>
+	
+	<badge id="2" level="l" parentId="0">
+		<title><![CDATA[16 Phase III Complete]]></title>
+		<description><![CDATA[Congratulations! Your team has completed the entire project!]]></description>
+	</badge>
+	
+</badges>

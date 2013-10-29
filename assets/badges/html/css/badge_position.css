@@ -1,0 +1,289 @@
+/* BADGE POSITIONS */
+.badge {
+	position: absolute;
+	/* opacity: .5; */
+}
+.badge.shadow {
+	z-index: 10;
+	display: none;
+}
+
+/* PHASE ONE (STAGE ONE TO SEVEN) */
+.phase_content .phase_one.one {
+	top:75px;
+	left:58px;
+}
+.phase_content .phase_one.two {
+	top:75px;
+	left:335px;
+}
+.phase_content .phase_one.three {
+	top:75px;
+	left:565px;
+}
+.phase_content .phase_one.four {
+	top:315px;
+	left:67px;
+}
+.phase_content .phase_one.five {
+	top:335px;
+	left:400px;
+}
+.phase_content .phase_one.six {
+	top:335px;
+	left:668px;
+}
+.phase_content .phase_one.seven {
+	top:530px;
+	left:708px;
+}
+
+/* PHASE TWO (STAGE EIGHT TO THIRTEEN) */
+.phase_content .phase_two.eight {
+	top:75px;
+	left:60px;
+}
+.phase_content .phase_two.nine {
+	top:75px;
+	left:371px;
+}
+.phase_content .phase_two.ten {
+	top:75px;
+	left:627px;
+}
+.phase_content .phase_two.eleven {
+	top:316px;
+	left:103px;
+}
+.phase_content .phase_two.twelve {
+	top:388px;
+	left:489px;
+}
+.phase_content .phase_two.thirteen {
+	top:369px;
+	left:708px;
+}
+
+/* PHASE THREE (STAGE FOURTEEN TO SIXTEEN) */
+.phase_content .phase_three.fourteen {
+	top:73px;
+	left:90px;
+}
+.phase_content .phase_three.fifteen {
+	top:73px;
+	left:475px;
+}
+.phase_content .phase_three.sixteen {
+	top:48px;
+	left:708px;
+}
+
+/* ONE BRANCH */
+.badge.medium.shadow.twelve,
+.badge.medium.shadow.fourteen,
+.badge.medium.shadow.fifteen {
+	top:0;
+	left: 0;
+}
+.badge.medium.pink.twelve_final,
+.badge.medium.aqua.fourteen_final,
+.badge.medium.purple.fifteen_final {
+	top:2px;
+	left:2px;
+}
+
+/* TWO BRANCH */
+.badge.medium.shadow.one-one,
+.badge.medium.shadow.two-one,
+.badge.medium.shadow.five-one,
+.badge.medium.shadow.six-one,
+.badge.medium.shadow.nine-one,
+.badge.medium.shadow.ten-one {
+	left: 22px;
+	bottom: -60px;
+}
+.badge.medium.pink.one_one,
+.badge.medium.aqua.two_one,
+.badge.medium.purple.five_one,
+.badge.medium.aqua.six_one,
+.badge.medium.aqua.nine_one,
+.badge.medium.green.ten_one {
+	left: 24px;
+	bottom: -54px;
+}
+
+.badge.small.shadow.one-two,
+.badge.small.shadow.two-two,
+.badge.small.shadow.five-two,
+.badge.small.shadow.six-two,
+.badge.small.shadow.nine-two,
+.badge.small.shadow.ten-two {
+	left: -40px;
+	top: -40px;
+}
+.badge.small.yellow.one_two,
+.badge.small.blue.two_two,
+.badge.small.green.five_two,
+.badge.small.green.six_two,
+.badge.small.blue.nine_two,
+.badge.small.blue.ten_two {
+	left: -38px;
+	top: -38px;
+}
+
+.badge.small.shadow.one-three,
+.badge.small.shadow.two-three,
+.badge.small.shadow.five-three,
+.badge.small.shadow.six-three,
+.badge.small.shadow.nine-three,
+.badge.small.shadow.ten-three {
+	right: -40px;
+	top: -40px;
+}
+.badge.small.blue.one_three,
+.badge.small.red.two_three,
+.badge.small.blue.five_three,
+.badge.small.red.six_three,
+.badge.small.aqua.nine_three,
+.badge.small.yellow.ten_three {
+	right: -34px;
+	top: -38px;
+}
+
+/* FOUR BRANCH */
+.badge.medium.shadow.three-one,
+.badge.medium.shadow.eight-one {
+	left: 73px;
+	bottom: -60px;
+}
+.badge.medium.green.three_one,
+.badge.medium.blue.eight_one {
+	left: 75px;
+	bottom: -54px;
+}
+
+.badge.small.shadow.three-two,
+.badge.small.shadow.eight-two {
+	left: -40px;
+	bottom: -43px;
+}
+.badge.small.purple.three_two,
+.badge.small.purple.eight_two {
+	left: -38px;
+	bottom: -37px;
+}
+
+.badge.small.shadow.three-three,
+.badge.small.shadow.eight-three {
+	left: 10px;
+	top: -40px;
+}
+.badge.small.yellow.three_three,
+.badge.small.yellow.eight_three {
+	left: 12px;
+	top: -38px;
+}
+
+.badge.small.shadow.three-four,
+.badge.small.shadow.eight-four {
+	right: 10px;
+	top: -40px;
+}
+.badge.small.aqua.three_four,
+.badge.small.red.eight_four {
+	right: 16px;
+	top: -38px;
+}
+
+.badge.small.shadow.three-five,
+.badge.small.shadow.eight-five {
+	right: -40px;
+	bottom: -43px;
+}
+.badge.small.pink.three_five,
+.badge.small.green.eight_five {
+	right: -34px;
+	bottom: -37px;
+}
+
+/* FIVE BRANCH */
+.badge.medium.shadow.four-one,
+.badge.medium.shadow.eleven-one {
+	left: 70px;
+	bottom: -60px;
+}
+.badge.medium.red.four_one,
+.badge.medium.purple.eleven_one {
+	left: 72px;
+	bottom: -54px;
+}
+
+.badge.small.shadow.four-two,
+.badge.small.shadow.eleven-two {
+	left: -40px;
+	bottom: -43px;
+}
+.badge.small.yellow.four_two,
+.badge.small.red.eleven_two {
+	left: -38px;
+	bottom: -37px;
+}
+
+.badge.small.shadow.four-three,
+.badge.small.shadow.eleven-three {
+	left: -5px;
+	top: 2px;
+}
+.badge.small.pink.four_three,
+.badge.small.yellow.eleven_three {
+	left: -3px;
+	top: 4px;
+}
+
+.badge.small.shadow.four-four,
+.badge.small.shadow.eleven-four {
+	left: 90px;
+	top: -40px;
+}
+.badge.small.blue.four_four,
+.badge.small.pink.eleven_four {
+	left: 92px;
+	top: -38px;
+}
+
+.badge.small.shadow.four-five,
+.badge.small.shadow.eleven-five {
+	right: -6px;
+	bottom: 52px;
+}
+.badge.small.purple.four_five,
+.badge.small.green.eleven_five {
+	right: 0px;
+	bottom: 58px;
+}
+
+.badge.small.shadow.four-six,
+.badge.small.shadow.eleven-six {
+	right: -45px;
+	bottom: -43px;
+}
+.badge.small.yellow.four_six,
+.badge.small.green.eleven_six {
+	right: -39px;
+	bottom: -37px;
+}
+
+/* FINAL (LARGE) BADGE */
+.badge.large.blue.seven_final,
+.badge.large.green.thirteen_final,
+.badge.large.pink.sixteen_final {
+	top:2px;
+	left:2px;
+}
+
+
+
+
+
+
+

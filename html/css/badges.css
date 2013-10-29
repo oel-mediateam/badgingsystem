@@ -1,0 +1,1128 @@
+/* BADGES */
+.badge {
+	display: inline-block;
+	outline: none;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+
+/* LARGE */
+.badge.large {
+	width: 159px;
+	height: 159px;
+	background-image: url("../img/badges/big_badges.png");
+	/* overflow:hidden; */
+}
+.badge.large.shadow {
+	width: 167px;
+	height: 167px;
+	background-image: url("../img/badges/big_badges_shadow.png");
+}
+
+/* MEDIUM */
+.badge.medium {
+	width: 120px;
+	height: 120px;
+	background-image: url("../img/badges/medium_badges.png");
+	/* overflow:hidden; */
+}
+.badge.medium.shadow {
+	width: 128px;
+	height: 128px;
+	background-image: url("../img/badges/medium_badges_shadow.png");
+}
+
+/* SMALL */
+.badge.small {
+	width: 80px;
+	height: 80px;
+	background-image: url("../img/badges/small_badges.png");
+	/* overflow:hidden; */
+}
+.badge.small.shadow {
+	width: 88px;
+	height: 88px;
+	background-image: url("../img/badges/small_badges_shadow.png");
+}
+
+
+/* GRAYSCALE COLOR */
+.badge.large.pink {
+	background-position-x: -358px;
+	background-position-y: -20px;
+	background-position: -358px -20px;
+}
+.badge.large.blue {
+	background-position-x: -527px;
+	background-position-y: -20px;
+	background-position: -527px -20px;
+}
+.badge.large.green {
+	background-position-x: -696px;
+	background-position-y: -20px;
+	background-position: -696px -20px;
+}
+.badge.large.red {
+	background-position-x: -358px;
+	background-position-y: -189px;
+	background-position: -358px -189px;
+}
+.badge.large.yellow {
+	background-position-x: -527px;
+	background-position-y: -189px;
+	background-position: -527px -189px;
+}
+.badge.large.aqua {
+	background-position-x: -358px;
+	background-position-y: -358px;
+	background-position: -358px -358px;
+}
+.badge.large.purple {
+	background-position-x: -527px;
+	background-position-y: -358px;
+	background-position: -527px -358px;
+}
+
+.badge.medium.pink {
+	background-position-x: -670px;
+	background-position-y: -540px;
+	background-position: -670px -540px;
+}
+.badge.medium.blue {
+	background-position-x: -150px;
+	background-position-y: -540px;
+	background-position: -150px -540px;
+}
+.badge.medium.green {
+	background-position-x: -540px;
+	background-position-y: -540px;
+	background-position: -540px -540px;
+}
+.badge.medium.red {
+	background-position-x: -800px;
+	background-position-y: -540px;
+	background-position: -800px -540px;
+}
+.badge.medium.yellow {
+	background-position-x: -280px;
+	background-position-y: -540px;
+	background-position: -280px -540px;
+}
+.badge.medium.aqua {
+	background-position-x: -20px;
+	background-position-y: -540px;
+	background-position: -20px -540px;
+}
+.badge.medium.purple {
+	background-position-x: -410px;
+	background-position-y: -540px;
+	background-position: -410px -540px;
+}
+
+.badge.small.pink {
+	background-position-x: -20px;
+	background-position-y: -20px;
+	background-position: -20px -20px;
+}
+.badge.small.blue {
+	background-position-x: -20px;
+	background-position-y: -290px;
+	background-position: -20px -290px;
+}
+.badge.small.green {
+	background-position-x: -20px;
+	background-position-y: -560px;
+	background-position: -20px -560px;
+}
+.badge.small.red {
+	background-position-x: -20px;
+	background-position-y: -110px;
+	background-position: -20px -110px;
+}
+.badge.small.yellow {
+	background-position-x: -20px;
+	background-position-y: -380px;
+	background-position: -20px -380px;
+}
+.badge.small.aqua {
+	background-position-x: -20px;
+	background-position-y: -200px;
+	background-position: -20px -200px;
+}
+.badge.small.purple {
+	background-position-x: -20px;
+	background-position-y: -470px;
+	background-position: -20px -470px;
+}
+
+/* LARGE BADGES NO SHADOW */
+.badge.large.seven {
+	background-position-x: -20px;
+	background-position-y: -20px;
+	background-position: -20px -20px;
+}
+.badge.large.seven.bonus {
+	background-position-x: -189px;
+	background-position-y: -20px;
+	background-position: -189px -20px;
+}
+.badge.large.thirteen {
+	background-position-x: -20px;
+	background-position-y: -189px;
+	background-position: -20px -189px;
+}
+.badge.large.thirteen.bonus {
+	background-position-x: -189px;
+	background-position-y: -189px;
+	background-position: -189px -189px;
+}
+.badge.large.sixteen {
+	background-position-x: -20px;
+	background-position-y: -358px;
+	background-position: -20px -358px;
+}
+.badge.large.sixteen.bonus {
+	background-position-x: -189px;
+	background-position-y: -358px;
+	background-position: -189px -358px;
+}
+
+/* LARGE BADGES WITH SHADOW */
+.badge.large.shadow.seven {
+	background-position-x: -18px;
+	background-position-y: -18px;
+	background-position: -18px -18px;
+}
+.badge.large.shadow.seven.bonus {
+	background-position-x: -187px;
+	background-position-y: -18px;
+	background-position: -187px -18px;
+}
+.badge.large.shadow.thirteen {
+	background-position-x: -18px;
+	background-position-y: -187px;
+	background-position: -18px -187px;
+}
+.badge.large.shadow.thirteen.bonus {
+	background-position-x: -187px;
+	background-position-y: -187px;
+	background-position: -187px -187px;
+}
+.badge.large.shadow.sixteen {
+	background-position-x: -18px;
+	background-position-y: -358px;
+	background-position: -18px -358px;
+}
+.badge.large.shadow.sixteen.bonus {
+	background-position-x: -187px;
+	background-position-y: -356px;
+	background-position: -187px -356px;
+}
+
+/* MEDIUM BADGES NO SHADOW */
+.badge.medium.one-one {
+	background-position-x: -20px;
+	background-position-y: -20px;
+	background-position: -20px -20px;
+}
+.badge.medium.one-one.bonus {
+	background-position-x: -150px;
+	background-position-y: -20px;
+	background-position: -150px -20px;
+}
+.badge.medium.two-one {
+	background-position-x: -540px;
+	background-position-y: -20px;
+	background-position: -540px -20px;
+}
+.badge.medium.two-one.bonus {
+	background-position-x: -670px;
+	background-position-y: -20px;
+	background-position: -670px -20px;
+}
+.badge.medium.three-one {
+	background-position-x: -280px;
+	background-position-y: -150px;
+	background-position: -280px -150px;
+}
+.badge.medium.three-one.bonus {
+	background-position-x: -410px;
+	background-position-y: -150px;
+	background-position: -410px -150px;
+}
+.badge.medium.four-one {
+	background-position-x: -20px;
+	background-position-y: -280px;
+	background-position: -20px -280px;
+}
+.badge.medium.four-one.bonus {
+	background-position-x: -150px;
+	background-position-y: -280px;
+	background-position: -150px -280px;
+}
+.badge.medium.five-one {
+	background-position-x: -540px;
+	background-position-y: -280px;
+	background-position: -540px -280px;
+}
+.badge.medium.five-one.bonus {
+	background-position-x: -670px;
+	background-position-y: -280px;
+	background-position: -670px -280px;
+}
+.badge.medium.six-one {
+	background-position-x: -800px;
+	background-position-y: -20px;
+	background-position: -800px -20px;
+}
+.badge.medium.six-one.bonus {
+	background-position-x: -930px;
+	background-position-y: -20px;
+	background-position: -930px -20px;
+}
+.badge.medium.eight-one {
+	background-position-x: -20px;
+	background-position-y: -410px;
+	background-position: -20px -410px;
+}
+.badge.medium.eight-one.bonus {
+	background-position-x: -150px;
+	background-position-y: -410px;
+	background-position: -150px -410px;
+}
+.badge.medium.nine-one {
+	background-position-x: -280px;
+	background-position-y: -280px;
+	background-position: -280px -280px;
+}
+.badge.medium.nine-one.bonus {
+	background-position-x: -410px;
+	background-position-y: -280px;
+	background-position: -410px -280px;
+}
+.badge.medium.ten-one {
+	background-position-x: -540px;
+	background-position-y: -150px;
+	background-position: -540px -150px;
+}
+.badge.medium.ten-one.bonus {
+	background-position-x: -670px;
+	background-position-y: -150px;
+	background-position: -670px -150px;
+}
+.badge.medium.eleven-one {
+	background-position-x: -800px;
+	background-position-y: -280px;
+	background-position: -800px -280px;
+}
+.badge.medium.eleven-one.bonus {
+	background-position-x: -930px;
+	background-position-y: -280px;
+	background-position: -930px -280px;
+}
+.badge.medium.twelve {
+	background-position-x: -800px;
+	background-position-y: -150px;
+	background-position: -800px -150px;
+}
+.badge.medium.twelve.bonus {
+	background-position-x: -930px;
+	background-position-y: -150px;
+	background-position: -930px -150px;
+}
+.badge.medium.fourteen {
+	background-position-x: -280px;
+	background-position-y: -20px;
+	background-position: -280px -20px;
+}
+.badge.medium.fourteen.bonus {
+	background-position-x: -410px;
+	background-position-y: -20px;
+	background-position: -410px -20px;
+}
+.badge.medium.fifteen {
+	background-position-x: -20px;
+	background-position-y: -150px;
+	background-position: -20px -150px;
+}
+.badge.medium.fifteen.bonus {
+	background-position-x: -150px;
+	background-position-y: -150px;
+	background-position: -150px -150px;
+}
+
+/* MEDIUM BADGES WITH SHADOW */
+.badge.medium.shadow.one-one {
+	background-position-x: -18px;
+	background-position-y: -18px;
+	background-position: -18px -18px;
+}
+.badge.medium.shadow.one-one.bonus {
+	background-position-x: -148px;
+	background-position-y: -18px;
+	background-position: -148px -18px;
+}
+.badge.medium.shadow.two-one {
+	background-position-x: -538px;
+	background-position-y: -18px;
+	background-position: -538px -18px;
+}
+.badge.medium.shadow.two-one.bonus {
+	background-position-x: -668px;
+	background-position-y: -18px;
+	background-position: -668px -18px;
+}
+.badge.medium.shadow.three-one {
+	background-position-x: -278px;
+	background-position-y: -148px;
+	background-position: -278px -148px;
+}
+.badge.medium.shadow.three-one.bonus {
+	background-position-x: -408px;
+	background-position-y: -148px;
+	background-position: -408px -148px;
+}
+.badge.medium.shadow.four-one {
+	background-position-x: -18px;
+	background-position-y: -278px;
+	background-position: -18px -278px;
+}
+.badge.medium.shadow.four-one.bonus {
+	background-position-x: -148px;
+	background-position-y: -278px;
+	background-position: -148px -278px;
+}
+.badge.medium.shadow.five-one {
+	background-position-x: -538px;
+	background-position-y: -278px;
+	background-position: -538px -278px;
+}
+.badge.medium.shadow.five-one.bonus {
+	background-position-x: -668px;
+	background-position-y: -278px;
+	background-position: -668px -278px;
+}
+.badge.medium.shadow.six-one {
+	background-position-x: -798px;
+	background-position-y: -18px;
+	background-position: -798px -18px;
+}
+.badge.medium.shadow.six-one.bonus {
+	background-position-x: -928px;
+	background-position-y: -18px;
+	background-position: -928px -18px;
+}
+.badge.medium.shadow.eight-one {
+	background-position-x: -18px;
+	background-position-y: -408px;
+	background-position: -18px -408px;
+}
+.badge.medium.shadow.eight-one.bonus {
+	background-position-x: -148px;
+	background-position-y: -408px;
+	background-position: -148px -408px;
+}
+.badge.medium.shadow.nine-one {
+	background-position-x: -278px;
+	background-position-y: -278px;
+	background-position: -278px -278px;
+}
+.badge.medium.shadow.nine-one.bonus {
+	background-position-x: -408px;
+	background-position-y: -278px;
+	background-position: -408px -278px;
+}
+.badge.medium.shadow.ten-one {
+	background-position-x: -538px;
+	background-position-y: -148px;
+	background-position: -538px -148px;
+}
+.badge.medium.shadow.ten-one.bonus {
+	background-position-x: -668px;
+	background-position-y: -148px;
+	background-position: -668px -148px;
+}
+.badge.medium.shadow.eleven-one {
+	background-position-x: -798px;
+	background-position-y: -278px;
+	background-position: -798px -278px;
+}
+.badge.medium.shadow.eleven-one.bonus {
+	background-position-x: -928px;
+	background-position-y: -278px;
+	background-position: -928px -278px;
+}
+.badge.medium.shadow.twelve {
+	background-position-x: -798px;
+	background-position-y: -148px;
+	background-position: -798px -148px;
+}
+.badge.medium.shadow.twelve.bonus {
+	background-position-x: -928px;
+	background-position-y: -148px;
+	background-position: -928px -148px;
+}
+.badge.medium.shadow.fourteen {
+	background-position-x: -278px;
+	background-position-y: -18px;
+	background-position: -278px -18px;
+}
+.badge.medium.shadow.fourteen.bonus {
+	background-position-x: -408px;
+	background-position-y: -18px;
+	background-position: -408px -18px;
+}
+.badge.medium.shadow.fifteen {
+	background-position-x: -18px;
+	background-position-y: -148px;
+	background-position: -18px -148px;
+}
+.badge.medium.shadow.fifteen.bonus {
+	background-position-x: -148px;
+	background-position-y: -148px;
+	background-position: -148px -148px;
+}
+
+/* SMALL BADGES NO SHADOW */
+.badge.small.one-two {
+	background-position-x: -290px;
+	background-position-y: -110px;
+	background-position: -290px -110px;
+}
+.badge.small.one-two.bonus {
+	background-position-x: -380px;
+	background-position-y: -110px;
+	background-position: -380px -110px;
+}
+.badge.small.one-three {
+	background-position-x: -650px;
+	background-position-y: -20px;
+	background-position: -659px -20px;
+}
+.badge.small.one-three.bonus {
+	background-position-x: -740px;
+	background-position-y: -20px;
+	background-position: -740px -20px;
+}
+.badge.small.two-two {
+	background-position-x: -110px;
+	background-position-y: -110px;
+	background-position: -110px -110px;
+}
+.badge.small.two-two.bonus {
+	background-position-x: -200px;
+	background-position-y: -110px;
+	background-position: -200px -110px;
+}
+.badge.small.two-three {
+	background-position-x: -470px;
+	background-position-y: -20px;
+	background-position: -470px -20px;
+}
+.badge.small.two-three.bonus {
+	background-position-x: -560px;
+	background-position-y: -20px;
+	background-position: -560px -20px;
+}
+.badge.small.three-two {
+	background-position-x: -650px;
+	background-position-y: -290px;
+	background-position: -659px -290px;
+}
+.badge.small.three-two.bonus {
+	background-position-x: -740px;
+	background-position-y: -290px;
+	background-position: -740px -290px;
+}
+.badge.small.three-three {
+	background-position-x: -830px;
+	background-position-y: -290px;
+	background-position: -830px -290px;
+}
+.badge.small.three-three.bonus {
+	background-position-x: -920px;
+	background-position-y: -290px;
+	background-position: -920px -290px;
+}
+.badge.small.three-four {
+	background-position-x: -830px;
+	background-position-y: -200px;
+	background-position: -830px -200px;
+}
+.badge.small.three-four.bonus {
+	background-position-x: -920px;
+	background-position-y: -200px;
+	background-position: -920px -200px;
+}
+.badge.small.three-five {
+	background-position-x: -110px;
+	background-position-y: -20px;
+	background-position: -110px -20px;
+}
+.badge.small.three-five.bonus {
+	background-position-x: -200px;
+	background-position-y: -20px;
+	background-position: -200px -20px;
+}
+.badge.small.four-two {
+	background-position-x: -470px;
+	background-position-y: -290px;
+	background-position: -470px -290px;
+}
+.badge.small.four-two.bonus {
+	background-position-x: -560px;
+	background-position-y: -290px;
+	background-position: -560px -290px;
+}
+.badge.small.four-three {
+	background-position-x: -110px;
+	background-position-y: -290px;
+	background-position: -110px -290px;
+}
+.badge.small.four-three.bonus {
+	background-position-x: -200px;
+	background-position-y: -290px;
+	background-position: -200px -290px;
+}
+.badge.small.four-four {
+	background-position-x: -290px;
+	background-position-y: -470px;
+	background-position: -290px -470px;
+}
+.badge.small.four-four.bonus {
+	background-position-x: -380px;
+	background-position-y: -470px;
+	background-position: -380px -470px;
+}
+.badge.small.four-five {
+	background-position-x: -650px;
+	background-position-y: -200px;
+	background-position: -650px -200px;
+}
+.badge.small.four-five.bonus {
+	background-position-x: -740px;
+	background-position-y: -200px;
+	background-position: -740px -200px;
+}
+.badge.small.four-six {
+	background-position-x: -650px;
+	background-position-y: -110px;
+	background-position: -650px -110px;
+}
+.badge.small.four-six.bonus {
+	background-position-x: -740px;
+	background-position-y: -110px;
+	background-position: -740px -110px;
+}
+.badge.small.five-two {
+	background-position-x: -470px;
+	background-position-y: -380px;
+	background-position: -470px -380px;
+}
+.badge.small.five-two.bonus {
+	background-position-x: -560px;
+	background-position-y: -380px;
+	background-position: -560px -380px;
+}
+.badge.small.five-three {
+	background-position-x: -830px;
+	background-position-y: -380px;
+	background-position: -830px -380px;
+}
+.badge.small.five-three.bonus {
+	background-position-x: -920px;
+	background-position-y: -380px;
+	background-position: -920px -380px;
+}
+.badge.small.six-two {
+	background-position-x: -110px;
+	background-position-y: -560px;
+	background-position: -110px -560px;
+}
+.badge.small.six-two.bonus {
+	background-position-x: -200px;
+	background-position-y: -560px;
+	background-position: -200px -560px;
+}
+.badge.small.six-three {
+	background-position-x: -830px;
+	background-position-y: -110px;
+	background-position: -830px -110px;
+}
+.badge.small.six-three.bonus {
+	background-position-x: -920px;
+	background-position-y: -110px;
+	background-position: -920px -110px;
+}
+.badge.small.eight-two {
+	background-position-x: -470px;
+	background-position-y: -470px;
+	background-position: -470px -470px;
+}
+.badge.small.eight-two.bonus {
+	background-position-x: -560px;
+	background-position-y: -470px;
+	background-position: -560px -470px;
+}
+.badge.small.eight-three {
+	background-position-x: -290px;
+	background-position-y: -560px;
+	background-position: -299px -560px;
+}
+.badge.small.eight-three.bonus {
+	background-position-x: -380px;
+	background-position-y: -560px;
+	background-position: -380px -560px;
+}
+.badge.small.eight-four {
+	background-position-x: -650px;
+	background-position-y: -380px;
+	background-position: -650px -380px;
+}
+.badge.small.eight-four.bonus {
+	background-position-x: -740px;
+	background-position-y: -380px;
+	background-position: -740px -380px;
+}
+.badge.small.eight-five {
+	background-position-x: -290px;
+	background-position-y: -20px;
+	background-position: -290px -20px;
+}
+.badge.small.eight-five.bonus {
+	background-position-x: -380px;
+	background-position-y: -20px;
+	background-position: -380px -20px;
+}
+.badge.small.nine-two {
+	background-position-x: -470px;
+	background-position-y: -200px;
+	background-position: -470px -200px;
+}
+.badge.small.nine-two.bonus {
+	background-position-x: -560px;
+	background-position-y: -200px;
+	background-position: -560px -200px;
+}
+.badge.small.nine-three {
+	background-position-x: -290px;
+	background-position-y: -290px;
+	background-position: -290px -290px;
+}
+.badge.small.nine-three.bonus {
+	background-position-x: -380px;
+	background-position-y: -290px;
+	background-position: -380px -290px;
+}
+.badge.small.nine-four {
+	background-position-x: -830px;
+	background-position-y: -20px;
+	background-position: -830px -20px;
+}
+.badge.small.nine-four.bonus {
+	background-position-x: -920px;
+	background-position-y: -20px;
+	background-position: -920px -20px;
+}
+.badge.small.nine-five {
+	background-position-x: -290px;
+	background-position-y: -380px;
+	background-position: -290px -380px;
+}
+.badge.small.nine-five.bonus {
+	background-position-x: -380px;
+	background-position-y: -380px;
+	background-position: -380px -380px;
+}
+.badge.small.ten-two {
+	background-position-x: -650px;
+	background-position-y: -470px;
+	background-position: -650px -470px;
+}
+.badge.small.ten-two.bonus {
+	background-position-x: -740px;
+	background-position-y: -470px;
+	background-position: -740px -470px;
+}
+.badge.small.ten-three {
+	background-position-x: -110px;
+	background-position-y: -380px;
+	background-position: -110px -380px;
+}
+.badge.small.ten-three.bonus {
+	background-position-x: -200px;
+	background-position-y: -380px;
+	background-position: -200px -380px;
+}
+.badge.small.eleven-two {
+	background-position-x: -470px;
+	background-position-y: -110px;
+	background-position: -470px -110px;
+}
+.badge.small.eleven-two.bonus {
+	background-position-x: -560px;
+	background-position-y: -110px;
+	background-position: -560px -110px;
+}
+.badge.small.eleven-three {
+	background-position-x: -110px;
+	background-position-y: -200px;
+	background-position: -110px -200px;
+}
+.badge.small.eleven-three.bonus {
+	background-position-x: -200px;
+	background-position-y: -200px;
+	background-position: -200px -200px;
+}
+.badge.small.eleven-four {
+	background-position-x: -110px;
+	background-position-y: -470px;
+	background-position: -110px -470px;
+}
+.badge.small.eleven-four.bonus {
+	background-position-x: -200px;
+	background-position-y: -470px;
+	background-position: -200px -470px;
+}
+.badge.small.eleven-five {
+	background-position-x: -290px;
+	background-position-y: -200px;
+	background-position: -290px -200px;
+}
+.badge.small.eleven-five.bonus {
+	background-position-x: -380px;
+	background-position-y: -200px;
+	background-position: -380px -200px;
+}
+.badge.small.eleven-six {
+	background-position-x: -830px;
+	background-position-y: -470px;
+	background-position: -830px -470px;
+}
+.badge.small.eleven-six.bonus {
+	background-position-x: -920px;
+	background-position-y: -470px;
+	background-position: -920px -470px;
+}
+
+/* SMALL BADGES WITH SHADOW */
+.badge.small.shadow.one-two {
+	background-position-x: -288px;
+	background-position-y: -108px;
+	background-position: -288px -108px;
+}
+.badge.small.shadow.one-two.bonus {
+	background-position-x: -378px;
+	background-position-y: -108px;
+	background-position: -378px -108px;
+}
+.badge.small.shadow.one-three {
+	background-position-x: -648px;
+	background-position-y: -18px;
+	background-position: -648px -18px;
+}
+.badge.small.shadow.one-three.bonus {
+	background-position-x: -738px;
+	background-position-y: -18px;
+	background-position: -738px -18px;
+}
+.badge.small.shadow.two-two {
+	background-position-x: -108px;
+	background-position-y: -108px;
+	background-position: -108px -108px;
+}
+.badge.small.shadow.two-two.bonus {
+	background-position-x: -198px;
+	background-position-y: -108px;
+	background-position: -198px -108px;
+}
+.badge.small.shadow.two-three {
+	background-position-x: -468px;
+	background-position-y: -18px;
+	background-position: -468px -18px;
+}
+.badge.small.shadow.two-three.bonus {
+	background-position-x: -558px;
+	background-position-y: -18px;
+	background-position: -558px -18px;
+}
+.badge.small.shadow.three-two {
+	background-position-x: -648px;
+	background-position-y: -288px;
+	background-position: -648px -288px;
+}
+.badge.small.shadow.three-two.bonus {
+	background-position-x: -738px;
+	background-position-y: -288px;
+	background-position: -738px -288px;
+}
+.badge.small.shadow.three-three {
+	background-position-x: -828px;
+	background-position-y: -288px;
+	background-position: -828px -288px;
+}
+.badge.small.shadow.three-three.bonus {
+	background-position-x: -918px;
+	background-position-y: -288px;
+	background-position: -918px -288px;
+}
+.badge.small.shadow.three-four {
+	background-position-x: -828px;
+	background-position-y: -198px;
+	background-position: -828px -198px;
+}
+.badge.small.shadow.three-four.bonus {
+	background-position-x: -918px;
+	background-position-y: -198px;
+	background-position: -918px -198px;
+}
+.badge.small.shadow.three-five {
+	background-position-x: -108px;
+	background-position-y: -18px;
+	background-position: -108px -18px;
+}
+.badge.small.shadow.three-five.bonus {
+	background-position-x: -198px;
+	background-position-y: -18px;
+	background-position: -198px -18px;
+}
+.badge.small.shadow.four-two {
+	background-position-x: -468px;
+	background-position-y: -288px;
+	background-position: -468px -288px;
+}
+.badge.small.shadow.four-two.bonus {
+	background-position-x: -558px;
+	background-position-y: -288px;
+	background-position: -558px -288px;
+}
+.badge.small.shadow.four-three {
+	background-position-x: -108px;
+	background-position-y: -288px;
+	background-position: -108px -288px;
+}
+.badge.small.shadow.four-three.bonus {
+	background-position-x: -198px;
+	background-position-y: -288px;
+	background-position: -198px -288px;
+}
+.badge.small.shadow.four-four {
+	background-position-x: -288px;
+	background-position-y: -468px;
+	background-position: -288px -468px;
+}
+.badge.small.shadow.four-four.bonus {
+	background-position-x: -378px;
+	background-position-y: -468px;
+	background-position: -378px -468px;
+}
+.badge.small.shadow.four-five {
+	background-position-x: -648px;
+	background-position-y: -198px;
+	background-position: -648px -198px;
+}
+.badge.small.shadow.four-five.bonus {
+	background-position-x: -738px;
+	background-position-y: -198px;
+	background-position: -738px -198px;
+}
+.badge.small.shadow.four-six {
+	background-position-x: -648px;
+	background-position-y: -108px;
+	background-position: -648px -108px;
+}
+.badge.small.shadow.four-six.bonus {
+	background-position-x: -738px;
+	background-position-y: -108px;
+	background-position: -738px -108px;
+}
+.badge.small.shadow.five-two {
+	background-position-x: -468px;
+	background-position-y: -378px;
+	background-position: -468px -378px;
+}
+.badge.small.shadow.five-two.bonus {
+	background-position-x: -558px;
+	background-position-y: -378px;
+	background-position: -558px -378px;
+}
+.badge.small.shadow.five-three {
+	background-position-x: -828px;
+	background-position-y: -378px;
+	background-position: -828px -378px;
+}
+.badge.small.shadow.five-three.bonus {
+	background-position-x: -918px;
+	background-position-y: -378px;
+	background-position: -918px -378px;
+}
+.badge.small.shadow.six-two {
+	background-position-x: -108px;
+	background-position-y: -558px;
+	background-position: -108px -558px;
+}
+.badge.small.shadow.six-two.bonus {
+	background-position-x: -198px;
+	background-position-y: -558px;
+	background-position: -198px -558px;
+}
+.badge.small.shadow.six-three {
+	background-position-x: -828px;
+	background-position-y: -108px;
+	background-position: -828px -108px;
+}
+.badge.small.shadow.six-three.bonus {
+	background-position-x: -918px;
+	background-position-y: -108px;
+	background-position: -918px -108px;
+}
+.badge.small.shadow.eight-two {
+	background-position-x: -468px;
+	background-position-y: -468px;
+	background-position: -468px -468px;
+}
+.badge.small.shadow.eight-two.bonus {
+	background-position-x: -558px;
+	background-position-y: -468px;
+	background-position: -558px -468px;
+}
+.badge.small.shadow.eight-three {
+	background-position-x: -288px;
+	background-position-y: -558px;
+	background-position: -288px -558px;
+}
+.badge.small.shadow.eight-three.bonus {
+	background-position-x: -378px;
+	background-position-y: -558px;
+	background-position: -378px -558px;
+}
+.badge.small.shadow.eight-four {
+	background-position-x: -648px;
+	background-position-y: -378px;
+	background-position: -648px -378px;
+}
+.badge.small.shadow.eight-four.bonus {
+	background-position-x: -738px;
+	background-position-y: -378px;
+	background-position: -738px -378px;
+}
+.badge.small.shadow.eight-five {
+	background-position-x: -288px;
+	background-position-y: -18px;
+	background-position: -288px -18px;
+}
+.badge.small.shadow.eight-five.bonus {
+	background-position-x: -378px;
+	background-position-y: -18px;
+	background-position: -378px -18px;
+}
+.badge.small.shadow.nine-two {
+	background-position-x: -648px;
+	background-position-y: -468px;
+	background-position: -648px -468px;
+}
+.badge.small.shadow.nine-two.bonus {
+	background-position-x: -738px;
+	background-position-y: -468px;
+	background-position: -738px -468px;
+}
+.badge.small.shadow.nine-three {
+	background-position-x: -108px;
+	background-position-y: -378px;
+	background-position: -108px -378px;
+}
+.badge.small.shadow.nine-three.bonus {
+	background-position-x: -198px;
+	background-position-y: -378px;
+	background-position: -198px -378px;
+}
+.badge.small.shadow.ten-two {
+	background-position-x: -468px;
+	background-position-y: -198px;
+	background-position: -468px -198px;
+}
+.badge.small.shadow.ten-two.bonus {
+	background-position-x: -558px;
+	background-position-y: -198px;
+	background-position: -558px -198px;
+}
+.badge.small.shadow.ten-three {
+	background-position-x: -288px;
+	background-position-y: -288px;
+	background-position: -288px -288px;
+}
+.badge.small.shadow.ten-three.bonus {
+	background-position-x: -378px;
+	background-position-y: -288px;
+	background-position: -378px -288px;
+}
+.badge.small.shadow.ten-four {
+	background-position-x: -828px;
+	background-position-y: -18px;
+	background-position: -828px -18px;
+}
+.badge.small.shadow.ten-four.bonus {
+	background-position-x: -918px;
+	background-position-y: -18px;
+	background-position: -918px -18px;
+}
+.badge.small.shadow.ten-five {
+	background-position-x: -288px;
+	background-position-y: -378px;
+	background-position: -288px -378px;
+}
+.badge.small.shadow.ten-five.bonus {
+	background-position-x: -378px;
+	background-position-y: -378px;
+	background-position: -378px -378px;
+}
+.badge.small.shadow.eleven-two {
+	background-position-x: -468px;
+	background-position-y: -108px;
+	background-position: -468px -108px;
+}
+.badge.small.shadow.eleven-two.bonus {
+	background-position-x: -558px;
+	background-position-y: -108px;
+	background-position: -558px -108px;
+}
+.badge.small.shadow.eleven-three {
+	background-position-x: -108px;
+	background-position-y: -198px;
+	background-position: -108px -198px;
+}
+.badge.small.shadow.eleven-three.bonus {
+	background-position-x: -198px;
+	background-position-y: -198px;
+	background-position: -198px -198px;
+}
+.badge.small.shadow.eleven-four {
+	background-position-x: -108px;
+	background-position-y: -468px;
+	background-position: -108px -468px;
+}
+.badge.small.shadow.eleven-four.bonus {
+	background-position-x: -198px;
+	background-position-y: -468px;
+	background-position: -198px -468px;
+}
+.badge.small.shadow.eleven-five {
+	background-position-x: -288px;
+	background-position-y: -198px;
+	background-position: -288px -198px;
+}
+.badge.small.shadow.eleven-five.bonus {
+	background-position-x: -378px;
+	background-position-y: -198px;
+	background-position: -378px -198px;
+}
+.badge.small.shadow.eleven-six {
+	background-position-x: -828px;
+	background-position-y: -468px;
+	background-position: -828px -468px;
+}
+.badge.small.shadow.eleven-six.bonus {
+	background-position-x: -918px;
+	background-position-y: -468px;
+	background-position: -918px -468px;
+}
